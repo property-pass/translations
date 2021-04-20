@@ -1,8 +1,8 @@
 {
-  "{{number}}_of_{{type}}_found": "{{number}}_of_{{type}}_found",
-  "{{numer}}_of_months": "{{numer}}_of_months",
-  "add_lease_agreement": "add_lease_agreement",
-  "add_portfolio": "add_portfolio",
+  "{{number}}_of_{{type}}_found": "Er zijn {{number}} {{type}} gevonden",
+  "{{number}}_of_months": "{{number}} maand(en)",
+  "add_lease_agreement": "Voeg een huurcontract toe",
+  "add_portfolio": "Voeg een portefeuille toe",
   "add_vacancy": "add_vacancy",
   "adding_{{number}}_of_{{type}}": "adding_{{number}}_of_{{type}}",
   "addition": "addition",
