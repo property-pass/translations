@@ -1,0 +1,18 @@
+name: Merge me!
+
+on:
+  push:
+    branches:
+      - lokalise**
+
+jobs:
+  auto-merge:
+    name: Auto merge
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "🎉  Actor ${{ github.actor }"
+      - if: ${{ github.actor == 'dev-property-pass' }}
+        name: Auto merge
+        uses: ridedott/merge-me-action@v2
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
