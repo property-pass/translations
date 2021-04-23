@@ -84,7 +84,7 @@
   "date_between_start_end_date": "date_between_start_end_date",
   "default_error": "default_error",
   "delete_portfolio_title": "Portefeuille verwijderen",
-  "delete_portfolio_warning": "Weet u zeker dat u al uw gegevens uit deze portefeuille wil verwijderen? \n\nHiermee verwijdert u defintief de volgende gegevens:\n- Portefeuille informatie & gebruikers\n- Gebouwpaspoort(en) van deze portefeuille\n- Gegevens in het gebouwpaspoort (bv. huurcontracten)",
+  "delete_portfolio_warning": "Weet u zeker dat u al uw gegevens uit deze portefeuille wil verwijderen? \n\nHiermee verwijdert u definitief de volgende gegevens:\n- Portefeuille informatie & gebruikers\n- Gebouwpaspoort(en) van deze portefeuille\n- Gegevens in het gebouwpaspoort (bv. huurcontracten)",
   "delete_share_request_title": "delete_share_request_title",
   "delete_share_request_warning": "delete_share_request_warning",
   "delete_vacancy_title": "Leegstand verwijderen",
