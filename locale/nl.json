@@ -318,7 +318,7 @@
   "share_request_status_SUCCESS": "Succesvol",
   "share_request_step_SELECT_DATA": "Selecteer een gebouw",
   "share_request_step_SELECT_RECEIVER": "Selecteer een ontvanger",
-  "share_request_step_SHARE_DATA": "De laatste stap! Dit is het rapport dat uw bank wil ontvangen",
+  "share_request_step_SHARE_DATA": "Dit is het rapport dat uw bank wil ontvangen",
   "share_request_success_message": "Uw data is succesvol aangeleverd.",
   "share_request_title": "Gedeelde data {{gebouwpaspoort}}",
   "share_requests": "Data deel acties",
