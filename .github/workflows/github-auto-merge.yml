@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Auto merge
         if: ${{ github.actor == 'dev-property-pass' }}
-        uses: ridedott/merge-me-action@v2
+        uses: devmasx/merge-branch@v1.3.1
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          type: now
+          target_branch: master
+          github_token: ${{ github.token }}
