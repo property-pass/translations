@@ -98,7 +98,7 @@
   "default_error": "Er is iets fout gegaan.",
   "delete_building_passport_title": "delete_building_passport_title",
   "delete_building_passport_warning": "delete_building_passport_warning",
-  "delete_lease_agreement_title": "delete_lease_agreement_title",
+  "delete_lease_agreement_title": "Verwijderen van uw huurcontract",
   "delete_lease_agreement_warning": "delete_lease_agreement_warning",
   "delete_portfolio_title": "Portefeuille verwijderen",
   "delete_portfolio_warning": "Weet u zeker dat u al uw gegevens uit deze portefeuille wil verwijderen? \n\nHiermee verwijdert u definitief de volgende gegevens:\n- Portefeuille informatie & gebruikers\n- Gebouwpaspoort(en) van deze portefeuille\n- Gegevens in het gebouwpaspoort (bv. huurcontracten)",
