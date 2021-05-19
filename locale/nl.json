@@ -90,7 +90,7 @@
   "cpi_households": "CPI-alle huishoudens",
   "create_building_passport_introduction_for_{{organization}}": "U voegt een gebouw toe aan {{organization}}",
   "create_building_passport_title": "Gebouwpaspoort aanmaken",
-  "create_lease_agreement_introduction": "U voegt huurinformatie toe aan {{gebouwpasspoort}}",
+  "create_lease_agreement_introduction": "U voegt huurinformatie toe aan {{buildingPassport}}",
   "create_lease_agreement_title": "Huurinformatie toevoegen",
   "create_portfolio": "Maak een nieuwe portefeuille aan",
   "create_portfolio_introduction": "Indien u uw vastgoed in een entiteit heeft ondergebracht, kunt u uw vastgoed per entiteit organiseren. Maak daarvoor in onderstaand formulier, per entiteit, een portefeuille aan.",
