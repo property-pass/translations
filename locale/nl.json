@@ -429,6 +429,7 @@
   "no_{{type}}_found": "Er zijn geen {{type}} opgevoerd. U kunt rechtsboven {{type}} toevoegen.",
   "no_organization_found_for_coc_number": "Er zijn geen resultaten gevonden in de registers van de Kamer van Koophandel.",
   "no_valuations_found": "Er zijn geen taxaties beschikbaar.",
+  "not_allowed_to_share_with_bank_introduction": "Het is op dit moment voor u nog niet mogelijk om uw data te delen met de bank.",
   "notice_period": "Opzegtermijn",
   "november": "November",
   "object": "Object",
