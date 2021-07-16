@@ -250,7 +250,7 @@
   "excel_import_success_step_title": "Het Excel bestand is succesvol verwerkt en geïmporteerd in Property Pass.",
   "excel_import_title": "Automatisch opvoeren van gegevens",
   "excel_import_upload_data_label": "Stap 1: Upload het Excel bestand",
-  "excel_import_upload_step_introduction": "Welkom bij de Excel importeer functionaliteit van Property Pass. \nOm gebruik te maken van deze functionaliteit is een Property Pass Excel template benodigd waarmee u uw huurcontracten kunt structureren. Indien u hier niet over beschikt, voer dan handmatig uw informatie op. \n\nVoor aanlevering van huurinformatie bij uw financier is deze functionaliteit momenteel (nog) niet beschikbaar.",
+  "excel_import_upload_step_introduction": "Welkom bij de Excel importeer functionaliteit van Property Pass.\\n\\n\nOm gebruik te maken van deze functionaliteit is een Property Pass Excel template benodigd waarmee u uw huurcontracten kunt structureren. Indien u hier niet over beschikt, voer dan handmatig uw informatie op.\\n\n\nVoor aanlevering van huurinformatie bij uw financier is deze functionaliteit momenteel (nog) niet beschikbaar.",
   "excel_import_upload_step_title": "Toelichting",
   "explanation": "Toelichting",
   "extension_period_in_months": "Wat is de verlengtermijn van het huurcontract? Vul het aantal maanden in.",
