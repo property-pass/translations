@@ -993,7 +993,7 @@
   "zero_or_higher": "Waarde moet een nummer zijn die 0 of groter is",
   "zero_through_hundred": "Waarde moet een nummer zijn tussen de 0 en 100",
   "{{number}}_of_months": "{{number}} maand(en)",
-  "{{number}}_of_selected_building_passports": "U heeft %1$s gebouwen geselecteerd",
+  "{{number}}_of_selected_building_passports": "U heeft {{number}} gebouwen geselecteerd",
   "{{number}}_of_{{type}}_found": "Er zijn {{number}} {{type}} gevonden",
   "{{number}}_years": "{{number}} jaar"
 }
