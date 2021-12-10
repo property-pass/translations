@@ -28,7 +28,7 @@
   "accessibility_DISTANCE_3001_5000M": "3001 - 5000 meter",
   "accessibility_DISTANCE_5001_HIGHER": "Meer dan 5000 meter",
   "accessibility_DISTANCE_501_1000M": "501 - 1000 meter",
-  "account_does_not_exist": "Het inloggen in Property Pass lukt niet omdat uw account niet wordt herkend. \nMogelijke oorzaak is dat u zich al heeft geregistreerd bij Mijn Data Mijn Business met hetzelfde e-mailadres als waar u nu mee probeert in te loggen c.q. u te registreren. \n\nHet is op dit moment slechts mogelijk om met één uniek emailadres u te registreren in Mijn Data Mijn Business in combinatie met Property Pass. \nProbeer het nogmaals door in Mijn Data Mijn Business met uw initiele account details in te loggen en vervolgens naar Property Pass te gaan.\n\nIndien het probleem zich blijft voordoen, neem dan contact op met de servicedesk van Mijn Data Mijn Business",
+  "account_does_not_exist": "Het inloggen in Property Pass lukt niet omdat uw account niet wordt herkend. \nMogelijk bent u nog niet geregistreerd. Ga via onderstaande link terug naar de startpagina en klik op 'registreren'\n\nIndien het probleem zich blijft voordoen, neem dan contact op met de servicedesk van Mijn Data Mijn Business.",
   "active": "Actief",
   "actual_energy_usage": "Daadwerkelijk energiegebruik",
   "actual_use": "Feitelijk gebruik",
