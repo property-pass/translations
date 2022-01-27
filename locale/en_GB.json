@@ -1282,7 +1282,7 @@
     "tooltip_lease_agreement_indexation_step_has_indexations": "Is the rental price adjusted annually?",
     "tooltip_lease_agreement_indexation_step_index_effective_date": "Date next indexing",
     "tooltip_lease_agreement_indexation_step_name_index_used": "Choose the name of the inched index.",
-    "tooltip_lease_agreement_price_step_gross_rent_per_period": "Current rent is the rent that the tenant currently pays, excluding VAT and excluding service costs",
+    "tooltip_lease_agreement_price_step_gross_rent_per_period": "Current rent is the rent that the tenant currently pays, including VAT and including service costs",
     "tooltip_lease_agreement_price_step_rent_period_type": "",
     "tooltip_lease_agreement_price_step_service_costs_per_period": "Service costs rented space per payment period.",
     "tooltip_lease_agreement_rented_step_area_leased": "The rented square meters including general meters.",
