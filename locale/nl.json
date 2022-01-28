@@ -1282,7 +1282,7 @@
     "tooltip_lease_agreement_indexation_step_has_indexations": "Wordt de huurprijs jaarlijks aangepast?",
     "tooltip_lease_agreement_indexation_step_index_effective_date": "Datum eerstvolgende indexering",
     "tooltip_lease_agreement_indexation_step_name_index_used": "Kies de naam van de gehanteerde index.",
-    "tooltip_lease_agreement_price_step_gross_rent_per_period": "Actuele huur is de huur die de huurder op dit moment betaalt, inclusief BTW en inclusief servicekosten",
+    "tooltip_lease_agreement_price_step_gross_rent_per_period": "Actuele huur is de bruto huur die de huurder op dit moment betaalt, inclusief BTW en inclusief servicekosten",
     "tooltip_lease_agreement_price_step_rent_period_type": "",
     "tooltip_lease_agreement_price_step_service_costs_per_period": "Servicekosten gehuurde ruimte per betalingsperiode.",
     "tooltip_lease_agreement_rented_step_area_leased": "De verhuurde vierkante meters inclusief algemene meters.",
