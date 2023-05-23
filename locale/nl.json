@@ -1451,7 +1451,7 @@
     "swot": "SWOT analyse",
     "target_description": "Doelomschrijving",
     "taxation": "Taxatie",
-    "taxation_for_{{name}}": "Taxatierapport_voor_%1$s",
+    "taxation_for_{{name}}": "Taxatierapport",
     "telephoneNumber": "Telefoonnummer",
     "tenant": "Huurder",
     "tenant_chamber_of_commerce_number": "Registratienummer KvK huurder",
